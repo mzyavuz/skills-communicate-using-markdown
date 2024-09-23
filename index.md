@@ -6,3 +6,6 @@
 ###### Header 6
 
 Added 6 types of headers (descending size)
+
+
+![Image of Something](https://picsum.photos/200)
