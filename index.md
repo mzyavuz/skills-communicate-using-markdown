@@ -9,3 +9,7 @@ Added 6 types of headers (descending size)
 
 
 ![Image of Something](https://picsum.photos/200)
+
+``` javascript
+var myVar = "Hello, world!";
+```
